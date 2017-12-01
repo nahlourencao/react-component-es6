@@ -37,4 +37,3 @@ class GitHub extends React.Component{
 }
 
 export default GitHub; //ES6
-// module.exports = GitHub;
